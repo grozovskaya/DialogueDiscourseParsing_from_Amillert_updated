@@ -1,6 +1,6 @@
 # DialogueDiscourseParsing_from_Amillert_updated
 
-К сожалению, некоторые zip-папки оказались слишком большими для загрузки в репозиторий. Их можно скачать отсюда: 
+К сожалению, некоторые zip-папки оказались слишком большими для загрузки в репозиторий. Их можно скачать отсюда: https://drive.google.com/file/d/1KJRkhi5Aw57i5C9pFIINmsGrnOtwYFFy/view?usp=share_link
 
 __Алгоритм действий:__
 
